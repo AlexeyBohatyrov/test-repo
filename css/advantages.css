@@ -1,0 +1,41 @@
+.advantages {
+	list-style-type: none;
+	margin-left: -4px;
+	margin-right: -4px;
+	font-size: 0;
+	margin-top: 65px;
+}
+
+.advantages-item {
+	display: inline-block;
+	width: 33.33%;
+}
+
+.advantages-figure {
+	text-align: center;	
+}
+
+.advantages-image-holder {
+	width: 162px;
+	height: 162px;
+	background-color: var(--white);
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.advantages-image-holder::before {
+	content: '';
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+}
+
+.advantages-image {
+	vertical-align: middle;
+}
+
+.advantages-caption {
+	font-size: 24px;
+	padding: 25px 55px;
+}

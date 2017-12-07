@@ -1,0 +1,17 @@
+.welcome-text {
+	color: var(--white);
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 85px;
+	padding-bottom: 180px;
+	min-height: 387px;
+}
+
+.welcome-text-title {
+	font-size: 83px;
+}
+
+.welcome-text-description {
+	font-size: 31px;
+	margin-top: -10px;
+}

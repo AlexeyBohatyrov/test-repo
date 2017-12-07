@@ -1,0 +1,32 @@
+.logo {
+	display: inline-block;
+	width: 235px;
+	text-decoration: none;
+}
+
+.logo-image {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 6px;
+}
+
+.logo-description {
+	display: inline-block;
+	vertical-align: top;
+	width: 174px;
+}
+
+.logo-company-name {
+	display: inline-block;
+	width: 100%;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.logo-company-moto {
+	display: inline-block;
+	width: 100%;
+	font-size: 17px;
+	text-transform: capitalize;
+  margin-top: 3px;
+}

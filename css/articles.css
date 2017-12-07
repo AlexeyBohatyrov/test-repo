@@ -1,0 +1,59 @@
+.articles {
+	padding: 55px 0;
+	
+			
+}
+.logo{
+	margin-bottom: 60px;
+}
+.article {
+	display: inline-block; 
+	width: 47%;
+	margin-right: 15%;
+	margin-bottom: 50px;
+}
+.article p {
+	line-height: 1.7;
+}
+.posts {
+	 
+	width: 37%;
+	float: right;
+}
+.posts * {
+	display: block;
+}
+.posts a:hover {
+	opacity: .7;
+}
+.posts li {
+	margin-bottom: 27px;
+}
+.posts h2{
+	margin-bottom: 50px;
+}
+
+.posts .ipsum {	
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	font-size: 14px;
+  	margin-top: 0;
+  	margin-bottom: 12px;
+  	font-weight: bold;
+}
+.posts .intro {
+	font-size: 14px;	
+}
+.posts .picture {
+  background-color: #fff;
+  width: 93px;
+  height: 93px;
+  margin: 0 28px 10px 0;
+  float: left;
+}
+.post {
+	padding-top: 11px;
+}
+a{
+	text-decoration: none;	
+}

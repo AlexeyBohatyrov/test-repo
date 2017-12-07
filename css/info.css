@@ -1,0 +1,35 @@
+.screen--info{
+	
+	background-color: var(--orange);
+	overflow: hidden;
+}
+
+.illustration{
+	
+	margin-right: auto;
+	
+	float: right;
+	
+	background-color: var(--white);
+	
+
+}
+.section{
+	color: var(--white);
+	padding-top: 110px;
+	padding-right: 200px;
+	
+}
+.section h2{
+	font-size: 26px;
+
+}
+.section h3{
+ 	font-size: 22px;
+ 	font-weight: normal; margin-bottom: 50px;
+}
+.section p{
+	font-size: 16px;
+}
+
+
